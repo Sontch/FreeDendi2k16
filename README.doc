@@ -1,0 +1,8 @@
+# FreeDendi2k16
+Casual Drafting Simulator for the Steam game Dota 2. 
+ 
+This code runs on the console completely, but can be adaptaed for GUI support fairly easily. There is one small problem with users inputting hero names that contain spaces, and any help fixing this problem would be welcome. 
+
+The idea is for two people to draft against each other similar to regular dota, and use the post-draft analysis to improve their drafting skills. Mainly targets beginners at this stage.
+
+Simply follow the on-screen prompts and enter valid hero names present in the Hero class. 
